@@ -58,3 +58,11 @@ body
     background: white;
     padding: 1em;
 }
+#Footer
+{
+    background-color: rgb(212, 201, 201);
+    color: rgb(211, 41, 18);
+    font-weight: bold;
+    padding: 0.5cm;
+    text-align: center;
+}
